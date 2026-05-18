@@ -42,3 +42,7 @@ Thumbs.db
 # Reportes y logs locales del proyecto
 reporte_nomina.txt
 *.log
+
+# Documentación y Agentes locales
+docs/
+.agents/
